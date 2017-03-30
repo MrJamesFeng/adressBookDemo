@@ -210,7 +210,7 @@
 				TargetAttributes = {
 					0B03563F1E8C99E900C6F87E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = ELYXV54F6A;
+						DevelopmentTeam = 2PG34PH6C8;
 						ProvisioningStyle = Automatic;
 					};
 					0B03565B1E8C99E900C6F87E = {
@@ -431,10 +431,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = ELYXV54F6A;
+				DEVELOPMENT_TEAM = 2PG34PH6C8;
 				INFOPLIST_FILE = adressBookDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = fengjing.adressBookDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.QianHaiLDY.zucheStaff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -443,10 +443,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = ELYXV54F6A;
+				DEVELOPMENT_TEAM = 2PG34PH6C8;
 				INFOPLIST_FILE = adressBookDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = fengjing.adressBookDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.QianHaiLDY.zucheStaff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
